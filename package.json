@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "macro-css": "^1.0.5",
-    "sass": "^1.83.4",
-    "scss": "^0.2.4",
-    "web-vitals": "^4.2.4"
-=======
   "name": "react-sneakers",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 94d07f6 (Create Components)
   }
 }
