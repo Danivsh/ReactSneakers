@@ -15,6 +15,16 @@ function Headers(props) {
           <span>1205 руб</span>
         </li>
         <li>
+          <img
+            className="mr-20 cu-p"
+            width={18}
+            height={18}
+            src="/img/favorite.svg"
+            alt="Favorite"
+          />
+          <span>Закладки</span>
+        </li>
+        <li>
           <img width={18} height={18} src="/img/user.svg" alt="User" />
         </li>
       </ul>
